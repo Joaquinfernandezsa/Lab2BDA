@@ -1,0 +1,11 @@
+# .gitignore
+
+venv/
+__pycache__/
+*.pyc
+*.rar
+
+# Ignorar carpetas de datos de MongoDB
+mongo1/
+mongo2/
+mongo3/
